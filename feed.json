@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WOD",
+    "description": "",
+    "home_page_url": "https://github.io/muirio/weekendofdreams",
+    "feed_url": "https://github.io/muirio/weekendofdreams/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Moo"
+    },
+    "items": [
+        {
+            "id": "https://github.io/muirio/weekendofdreams/hello-world.html",
+            "url": "https://github.io/muirio/weekendofdreams/hello-world.html",
+            "title": "Hello world",
+            "summary": "Blah blah",
+            "content_html": "<p>Blah blah</p>",
+            "author": {
+                "name": "Moo"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-02T08:38:33+00:00",
+            "date_modified": "2021-03-02T08:38:33+00:00"
+        }
+    ]
+}

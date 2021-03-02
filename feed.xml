@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>WOD</title>
+    <link href="https://github.io/muirio/weekendofdreams/feed.xml" rel="self" />
+    <link href="https://github.io/muirio/weekendofdreams" />
+    <updated>2021-03-02T08:38:33+00:00</updated>
+    <author>
+        <name>Moo</name>
+    </author>
+    <id>https://github.io/muirio/weekendofdreams</id>
+
+    <entry>
+        <title>Hello world</title>
+        <author>
+            <name>Moo</name>
+        </author>
+        <link href="https://github.io/muirio/weekendofdreams/hello-world.html"/>
+        <id>https://github.io/muirio/weekendofdreams/hello-world.html</id>
+
+        <updated>2021-03-02T08:38:33+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Blah blah
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Blah blah</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
